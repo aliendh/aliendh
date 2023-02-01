@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Let me introduce myself
+
+Hi, I'm aliendh.
+I wish  a AI data scientist.
+So, I am a human.
+I love food.
+Thank you.
+
 <!--
 **aliendh/aliendh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
